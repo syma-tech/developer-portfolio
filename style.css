@@ -2,7 +2,7 @@ body{
     margin: 0;
     font-family: 'Poppins', sans-serif;
 }
-section{
+.flexible_container{
     display: flex;
 }
 h1{
@@ -11,6 +11,9 @@ h1{
 .half_width{
     width: 50%;
     padding: 0 0 0 100px ;
+}
+.orange_color{
+    color: orange;
 }
 .head_part{
      font-family: 'Poppins', sans-serif;

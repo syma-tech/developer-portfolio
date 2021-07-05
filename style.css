@@ -52,3 +52,17 @@ h2{
     padding: 0 30px 30px;
     box-shadow: 10px 10px 10px 10px gray;
 }
+#full_stack{
+    border-left: 10px solid;
+    border-image: linear-gradient(lightsalmon, tomato) ;
+    border-image-slice:  1;
+}
+#baby_developer{
+    border-left: 10px solid;
+    border-image: linear-gradient(blue, cyan) ;
+    border-image-slice:  1;
+}
+footer p{
+    text-align: center;
+    margin-top: 200px;
+}
